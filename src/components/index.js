@@ -1,6 +1,6 @@
-import Clock from './Clock.jsx';
+import Image from './Image.jsx';
 
 
 export default {
-    Clock
+    Image
 };
