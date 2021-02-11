@@ -8,11 +8,10 @@ class Image extends Component {
 
     render() {
 
-        const { url } = this.props;
-        console.log(url);
+        const { image } = this.props;
 
         return (
-            <div>Image</div>
+            <img src={image}></img>
         );
     }
 }
