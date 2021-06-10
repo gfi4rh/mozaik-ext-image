@@ -17,7 +17,7 @@
     "prop-types": "^15.7.2"
   },
   "deprecated": false,
-  "description": "Mozaik pattern widgets",
+  "description": "Mozaik image widgets",
   "devDependencies": {
     "ava": "0.13.0",
     "babel-eslint": "^5.0.0",
@@ -47,7 +47,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/colin27091/mozaik-ext-image.git"
+    "url": "git://github.com/gfi4rh/mozaik-ext-image.git"
   },
   "scripts": {
     "cover-report": "nyc report --reporter=lcov && open coverage/lcov-report/index.html",
